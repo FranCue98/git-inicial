@@ -1,0 +1,4 @@
+mensajes.log  
+*log :tambien se puede usar
+node_modules/ :para ocultar una carpeta
+mensajes.log:solo para archivos
